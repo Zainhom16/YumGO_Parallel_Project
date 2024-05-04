@@ -36,9 +36,9 @@ To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone [repository URL]`
 2. Install dependencies:
-   cd admin && npm run dev
-   cd frontend && npm run dev
-   cd backend && npm run server
+   1.1 cd admin && npm run dev
+   1.2 cd frontend && npm run dev
+   1.3 cd backend && npm run server
 3. Create a .env file in the root directory and add necessary environment variables (database connection string, secret keys, etc.)
 
 
