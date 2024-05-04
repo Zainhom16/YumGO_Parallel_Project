@@ -39,7 +39,8 @@ To run this project locally, follow these steps:
    cd admin && npm run dev
    cd frontend && npm run dev
    cd backend && npm run server
-3.Create a .env file in the root directory and add necessary environment variables (database connection string, secret keys, etc.)
+3. Create a .env file in the root directory and add necessary environment variables (database connection string, secret keys, etc.)
+
 
 ## Contribution
 
