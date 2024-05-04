@@ -1,6 +1,6 @@
 # YumGo - Food Delivery Website
 
-YumGo is a full-stack food delivery website built using React, Express, MongoDB, and other technologies. It allows users to browse a variety of food options, place orders, and track their order status. Additionally, it provides an admin panel for managing food items and handling user orders.
+YumGo is a full-stack food delivery website built using React, Express, MongoDB, and other technologies. It allows users to browse a variety of food options, place orders, and track their order status. Additionally, it provides an admin panel for managing food items and handling user orders.The website is fully responsive, ensuring a seamless experience across all devices.
 
 ![Spendify Mockup](/mockup2.jpg)
 
